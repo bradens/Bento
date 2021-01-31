@@ -30,4 +30,4 @@ jobs:
         run: npm install
         
       - name: build css
-        run: npm run build
+        run: npm run build:css
